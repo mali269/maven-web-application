@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url> http://35.171.154.175:8081/repository/today-release/ </url>
+	      <url> http://35.171.154.175:8080/repository/today-release/ </url>
 	    </repository>
 	    
 	    <snapshotRepository>
